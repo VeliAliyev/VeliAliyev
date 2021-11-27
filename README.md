@@ -1,6 +1,6 @@
-<p align="center">
-    # Hi I'm Veli 👋
-</p> 
+<h1 align="center">
+     Hi I'm Veli 👋
+</h1> 
 
 <!--
 **VeliAliyev/VeliAliyev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
